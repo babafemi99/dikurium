@@ -12,13 +12,11 @@ Your GraphQL schema should implement nested types and field resolvers or preload
 
 ## Table of Contents
 
-- [Project Title](#project-title)
+-
     - [Table of Contents](#table-of-contents)
     - [Description](#description)
     - [Installation](#installation)
     - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [License](#license)
 
 ## Description
 This project is a high-performance, scalable and secure web application developed using the latest technologies and industry best practices. The application is built with a package oriented design, utilizing GORM as the database layer, JWT for secure authentication, and Data Loader to handle N+1 queries for optimal performance.
